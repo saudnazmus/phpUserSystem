@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saudnazmus
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
+- 🌱 I’m working about php programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
